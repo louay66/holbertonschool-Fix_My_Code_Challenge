@@ -5,6 +5,7 @@
 
 class square():
     """ Documentation """
+
     width = 0
     height = 0
 
